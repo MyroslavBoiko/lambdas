@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$" dumb="true">
+      <excludeFolder url="file://$MODULE_DIR$/.syndicate-config-personal-development-account" />
+      <excludeFolder url="file://$MODULE_DIR$/.syndicate-config-personal-development-account/logs" />
+    </content>
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="d601fd1b-8f4e-4a8d-a50a-653cd6e5cd0f" />
+  </component>
+</module>
