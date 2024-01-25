@@ -15,7 +15,7 @@
     "dependencies" : [ ],
     "event_sources" : [ ],
     "env_variables" : { },
-    "publish_version" : true,
+    "publish_version" : false,
     "snap_start" : "None"
   }
 }

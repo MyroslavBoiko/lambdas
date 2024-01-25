@@ -1,15 +1,14 @@
 package com.task03;
 
+import java.util.HashMap;
+import java.util.Map;
+
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.RequestHandler;
 import com.syndicate.deployment.annotations.lambda.LambdaHandler;
 
-import java.util.HashMap;
-import java.util.Map;
-
 @LambdaHandler(lambdaName = "hello_world",
-	roleName = "hello_world-role",
-	isPublishVersion = true
+		roleName = "hello_world-role"
 )
 public class HelloWorld implements RequestHandler<Object, Map<String, Object>> {
 
